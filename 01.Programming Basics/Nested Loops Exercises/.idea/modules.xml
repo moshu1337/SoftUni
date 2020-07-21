@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cycles/.idea/cycles.iml" filepath="$PROJECT_DIR$/../cycles/.idea/cycles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cycles_2/.idea/cycles_2.iml" filepath="$PROJECT_DIR$/../cycles_2/.idea/cycles_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cycles_2_upr/.idea/cycles_2_upr.iml" filepath="$PROJECT_DIR$/../cycles_2_upr/.idea/cycles_2_upr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cycles_excercises/.idea/cycles_excercises.iml" filepath="$PROJECT_DIR$/../cycles_excercises/.idea/cycles_excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../first_steps_in_coding/.idea/first_steps_in_coding.iml" filepath="$PROJECT_DIR$/../first_steps_in_coding/.idea/first_steps_in_coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../izpit/.idea/izpit.iml" filepath="$PROJECT_DIR$/../izpit/.idea/izpit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../po_slojni_proverki/.idea/po_slojni_proverki.iml" filepath="$PROJECT_DIR$/../po_slojni_proverki/.idea/po_slojni_proverki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proverki/.idea/proverki.iml" filepath="$PROJECT_DIR$/../proverki/.idea/proverki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simple_calculations/.idea/simple_calculations.iml" filepath="$PROJECT_DIR$/../simple_calculations/.idea/simple_calculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vlojeni_cikili_upr.iml" filepath="$PROJECT_DIR$/.idea/vlojeni_cikili_upr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vlojeni_cikli/.idea/vlojeni_cikli.iml" filepath="$PROJECT_DIR$/../vlojeni_cikli/.idea/vlojeni_cikli.iml" />
+    </modules>
+  </component>
+</project>
